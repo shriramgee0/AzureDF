@@ -1,0 +1,9 @@
+{
+	"name": "LearningDF1",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3b8d3478-457a-4a76-a8ad-5f74260d8148",
+		"tenantId": "18048e8e-5c7c-4bec-9d42-a2f687f0b5f2"
+	}
+}
